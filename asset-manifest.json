@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Rusham_Website-JD/static/css/main.fe5e249d.css",
-    "main.js": "/Rusham_Website-JD/static/js/main.6b3e0429.js",
+    "main.js": "/Rusham_Website-JD/static/js/main.aea48e60.js",
     "index.html": "/Rusham_Website-JD/index.html",
     "main.fe5e249d.css.map": "/Rusham_Website-JD/static/css/main.fe5e249d.css.map",
-    "main.6b3e0429.js.map": "/Rusham_Website-JD/static/js/main.6b3e0429.js.map"
+    "main.aea48e60.js.map": "/Rusham_Website-JD/static/js/main.aea48e60.js.map"
   },
   "entrypoints": [
     "static/css/main.fe5e249d.css",
-    "static/js/main.6b3e0429.js"
+    "static/js/main.aea48e60.js"
   ]
 }
